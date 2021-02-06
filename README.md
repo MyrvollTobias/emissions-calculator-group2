@@ -33,3 +33,6 @@ Directory Tree:
                         login.html
                         result.html
                         select_record.html
+
+
+## Different methodologies to calculate CO2 emissions
