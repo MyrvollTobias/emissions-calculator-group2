@@ -61,8 +61,11 @@ Borders:
 
 #### Possible changes in design:
 
-Suggestion 1 - Add icons for all the vehicles, as shown in the following picture
+Suggestion 1 - Add icons for all the vehicles, as shown in the following picture. Line them up horisontally instead of vertically. 
 ![alt text](notes/Design_adjustment_EmissionCalculator_1.png)
+
+Suggestion 2 - Fill in the open space at the left and right side of the calculator. This could be filled with advertisment($$$$) or pictures that doesn't drag attention away from the calculator itself
+
 
 ### WEEK 8 - Task 4: App deployment
 
