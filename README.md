@@ -65,7 +65,8 @@ Suggestion 1 - Add icons for all the vehicles, as shown in the following picture
   <img src="notes/Design_adjustment_EmissionCalculator_1.png" width="500" height="300"/>
 
 Suggestion 2 - Fill in the open space at the left and right side of the calculator. This could be filled with advertisment($$$$) or pictures that doesn't drag attention away from the calculator itself
-  <img src="notes/Design_adjustment_EmissionCalculator_2.png" width="500" height="300"/>
+
+<img src="notes/Design_adjustment_EmissionCalculator_2.png" width="500" height="300"/>
 
 ### WEEK 8 - Task 4: App deployment
 
