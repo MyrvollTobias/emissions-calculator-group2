@@ -62,7 +62,7 @@ Borders:
 #### Possible changes in design:
 
 Suggestion 1 - Add icons for all the vehicles, as shown in the following picture
-![alt text](Design_adjustment_EmissionCalculator_1.png)
+![alt text](notes/Design_adjustment_EmissionCalculator_1.png)
 
 ### WEEK 8 - Task 4: App deployment
 
