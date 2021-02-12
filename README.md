@@ -59,6 +59,7 @@ Buttons:
 
 Borders:
 
+#### Possible changes in design:
 
 ### WEEK 8 - Task 4: App deployment
 
