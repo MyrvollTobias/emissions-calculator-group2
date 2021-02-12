@@ -63,7 +63,7 @@ Borders:
 
 Suggestion 1 - Add icons for all the vehicles, as shown in the following picture. Line them up horisontally instead of vertically. 
   ![Suggestion_1](notes/Design_adjustment_EmissionCalculator_1.png)
-  <img src="notes/Design_adjustment_EmissionCalculator_1.png" width="100" height="100"/>
+  <img src="notes/Design_adjustment_EmissionCalculator_1.png" width="500" height="300"/>
 
 Suggestion 2 - Fill in the open space at the left and right side of the calculator. This could be filled with advertisment($$$$) or pictures that doesn't drag attention away from the calculator itself
   ![Suggestion_2](notes/Design_adjustment_EmissionCalculator_2.png)
